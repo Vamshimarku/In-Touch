@@ -1,0 +1,53 @@
+body {
+  background-image: url(https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
+  text-align: center;
+}
+.tree {
+  height: 600px;
+  width: 400px;
+}
+
+.fa {
+  padding-top: 10px;
+  padding-left: 200px;
+  text-align: center;
+}
+
+.fa:hover {
+  color: pink;
+}
+.login-title{
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding-bottom: 30px;
+  color: #fff;
+
+}
+.text{
+  color: grey;
+  font-size: 2rem;
+  font-weight: lighter;
+}
+input[type=text] {
+  background-color: pink;
+border: 2px solid #0DB8DE;
+font-size: 1.5rem;
+margin-bottom: 20px;
+color: #fff;
+}
+
+input[type=password] {
+background-color: pink;
+border: 2px solid #0DB8DE;
+font-size: 1.5rem;
+margin-bottom: 20px;
+color: #fff;
+}
+.btn{
+  text-align: center;
+  position: relative;
+  left: 200px;
+  padding: 7% 15%;
+}
